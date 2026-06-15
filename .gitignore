@@ -1,0 +1,8 @@
+ghost-frontend/node_modules/
+ghost-frontend/build/
+backend/target/
+backend/.idea/
+backend/*.iml
+.idea/
+.DS_Store
+output/
